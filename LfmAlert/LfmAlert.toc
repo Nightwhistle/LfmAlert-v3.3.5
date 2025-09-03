@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: LFM Alert
+## Notes: Alerts you when someone is looking for more with your keywords.
+## Author: Nightwhistle
+## Version: 1.0
+## SavedVariables: LFMAlertDB
+
+LFMAlert.lua

@@ -1,0 +1,7 @@
+## Interface: 30500
+## Title: LfmAlert
+## Notes: Listen for LFM patterns and show alerts
+## Author: Nightwhistle
+## Version: 1.0
+
+LfmAlert.lua
